@@ -39,3 +39,35 @@ Uncomment line 1
 Run the .js file
 
 `node script.js`
+
+## Tested
+
+### Google Chrome
+#### Response Body
+![Response Body](https://github.com/krissylegaspi/Cox-Automotive-Challenge/blob/main/Screenshots/Chrome/Response%20body.jpg?raw=true)
+#### Response Headers
+![Response Headers](https://github.com/krissylegaspi/Cox-Automotive-Challenge/blob/main/Screenshots/Chrome/Response%20headers.jpg?raw=true)
+#### Response Post
+![Response Post](https://github.com/krissylegaspi/Cox-Automotive-Challenge/blob/main/Screenshots/Chrome/Response%20post.jpg?raw=true)
+
+### Firefox
+#### Response Body
+![Response Body](https://github.com/krissylegaspi/Cox-Automotive-Challenge/blob/main/Screenshots/Firefox/Response%20body.jpg?raw=true)
+#### Response Headers
+![Response Headers](https://github.com/krissylegaspi/Cox-Automotive-Challenge/blob/main/Screenshots/Firefox/Response%20headers.jpg?raw=true)
+#### Response Post
+![Response Post](https://github.com/krissylegaspi/Cox-Automotive-Challenge/blob/main/Screenshots/Firefox/Response%20post.jpg?raw=true)
+#### Response Request
+![Response Request](https://github.com/krissylegaspi/Cox-Automotive-Challenge/blob/main/Screenshots/Firefox/Response%20request.jpg?raw=true)
+
+### Microsoft Edge
+#### Response Body
+![Response Body](https://github.com/krissylegaspi/Cox-Automotive-Challenge/blob/main/Screenshots/Microsoft%20Edge/Response%20body.jpg?raw=true)
+#### Response Headers
+![Response Headers](https://github.com/krissylegaspi/Cox-Automotive-Challenge/blob/main/Screenshots/Microsoft%20Edge/Response%20headers.jpg?raw=true)
+#### Response Post
+![Response Post](https://github.com/krissylegaspi/Cox-Automotive-Challenge/blob/main/Screenshots/Microsoft%20Edge/Response%20post.jpg?raw=true)
+
+### Terminal
+#### Node Run
+![Node Run](https://github.com/krissylegaspi/Cox-Automotive-Challenge/blob/main/Screenshots/Terminal/Node%20run.jpg?raw=true)
